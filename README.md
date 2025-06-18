@@ -47,5 +47,11 @@ We process Full-HD 60 FPS UAV videos captured at altitudes ranging from **10 m
 
 ## 🚀 Usage
 
+### 🔧 Installation
+
+Clone the repository and install required packages:
+
 ```bash
-python run_removal.py --input path_to_your_video.mp4 --output output_folder/
+git clone https://github.com/Dark3850/CV_Caustics_Removal.git
+cd CV_Caustics_Removal
+pip install -r requirements.txt
