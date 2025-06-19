@@ -32,9 +32,9 @@ In our study, we process Full-HD 60 FPS UAV videos captured at altitudes ranging
 In the final enhancement, we were able to achieve not only the restoration of the geometries, but also a color enhancement to better discriminate the underwater scenary.
 
 <p float="left">
-  <img src="media/input_frame.png" width="200"/>
-  <img src="media/median_result.png" width="200"/>
-  <img src="media/final_output.png" width="200"/>
+  <img src="media/input_frame.png" width="230"/>
+  <img src="media/median_result.png" width="230"/>
+  <img src="media/final_output.png" width="230"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ pip install -r requirements.txt ```
 On a general note, you will find the ground truth image to perform the final enhancement correction in the `Caustics_Removal/5_Target` folder. This image was the one 
 used in our study.
 
-<img src="Caustics_Removal/5_Target/demo.gif" alt="Demo" width="800"/>
+<img src="Caustics_Removal/5_Target/GT.JPG" alt="Demo" width="800"/>
 
 ### ▶️ Run the Pipeline on your data
 
