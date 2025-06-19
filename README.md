@@ -32,9 +32,9 @@ In our study, we process Full-HD 60 FPS UAV videos captured at altitudes ranging
 In the final enhancement, we were able to achieve not only the restoration of the geometries, but also a color enhancement to better discriminate the underwater scenary.
 
 <p float="left">
-  <img src="media/input_frame.png" width="230"/>
-  <img src="media/median_result.png" width="230"/>
-  <img src="media/final_output.png" width="230"/>
+  <img src="media/input_frame.png" width="250"/>
+  <img src="media/median_result.png" width="250"/>
+  <img src="media/final_output.png" width="250"/>
 </p>
 
 ---
