@@ -1,6 +1,6 @@
 # 🌊 CV Caustics Removal
 
-**Shallow Water Distortion Correction Using UAV Imagery and Color Transfer Techniques**
+**Computer Vision Corrections Enhance UAV-Based Retrievals in Shallow Waters**
 
 <img src="media/demo.gif" alt="Demo" width="800"/>
 
@@ -66,3 +66,17 @@ used in our study.
 1. Be sure to put all your UAV videos in the `Caustics_Removal` folder.
 2. Put your ground truth image in the `Caustics_Removal/5_Target` fodler. For more details on the GT iamge selection, look at our paper.
 3. Run the `CV_Caustics_Removal.jpynb` notebook. The folder structure is already given in the repository.
+
+## 📖 Cite Us
+
+If you use this repository or the methods described herein in your work, please cite it as follows.
+
+**BibTeX**
+```bibtex
+@article{Scilla2025CausticsRemoval,
+  title        = {Computer Vision Corrections Enhance UAV-Based Retrievals in Shallow Waters},
+  author       = {Scilla, Dario},
+  journal      = {GitHub repository},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Dark3850/CV_Caustics_Removal}},
+}
