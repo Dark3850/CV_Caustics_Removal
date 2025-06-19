@@ -50,6 +50,8 @@ git clone https://github.com/Dark3850/CV_Caustics_Removal.git
 pip install -r requirements.txt 
 ```
 
+The Python version used in our work is `python==3.9.1`
+
 ### ▶️ Run the Pipeline
 
 1. To download the sample video, use this [Drive link](https://drive.google.com/drive/folders/1fm17AQia0bVttX4vSvrwrepVpf3g033v?usp=sharing).  
