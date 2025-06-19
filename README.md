@@ -47,7 +47,8 @@ Clone the repository and install required packages:
 
 ```bash
 git clone https://github.com/Dark3850/CV_Caustics_Removal.git
-pip install -r requirements.txt ```
+pip install -r requirements.txt 
+```
 
 ### ▶️ Run the Pipeline
 
@@ -58,7 +59,7 @@ pip install -r requirements.txt ```
 On a general note, you will find the ground truth image to perform the final enhancement correction in the `Caustics_Removal/5_Target` folder. This image was the one 
 used in our study.
 
-<img src="Caustics_Removal/5_Target/GT.JPG" alt="Demo" width="800"/>
+<img src="Caustics_Removal/5_Target/GT.JPG" width="800"/>
 
 ### ▶️ Run the Pipeline on your data
 
