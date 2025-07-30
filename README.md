@@ -72,13 +72,16 @@ used in our study.
 ## 📖 Cite Us
 
 If you use this repository or the methods described herein in your work, please cite it as follows.
-
+[Link](https://ieeexplore.ieee.org/abstract/document/11075526) to the article.
 **BibTeX**
 ```bibtex
-@article{Scilla2025CausticsRemoval,
-  title        = {Computer Vision Corrections Enhance UAV-Based Retrievals in Shallow Waters},
-  author       = {Scilla, Dario},
-  journal      = {GitHub repository},
-  year         = {2025},
-  howpublished = {\url{https://github.com/Dark3850/CV_Caustics_Removal}},
-}
+@ARTICLE{11075526,
+  author={Scilla, Dario and Lopez, Omar A. and Nieuwenhuis, Brian Owain and Johansen, Kasper and Elías-Lara, Mariana and Angulo, Victor and Rodríguez, Jorge L. and Jones, Burton H. and McCabe, Matthew F.},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Computer Vision Corrections Enhance UAV-Based Retrievals in Shallow Waters}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={18134-18149},
+  keywords={Image color analysis;Autonomous aerial vehicles;Optical distortion;Sun;Marine vegetation;Distortion;Videos;Shape;Water conservation;Sea measurements;Caustics;color transferring;computer vision;refraction;shallow waters;unmanned aerial vehicle (UAV)},
+  doi={10.1109/JSTARS.2025.3587478}}
